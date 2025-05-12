@@ -16,7 +16,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects.
 
 ***
 
-# Tableau
+# Power BI
 
 ***
 
